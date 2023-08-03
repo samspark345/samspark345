@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **docker**
 
-- 💬 Ask me about ** react, java, python, sql, typescript**
+- 💬 Ask me about ** react, java, python, sql, typescript, javascript**
 
 - 📫 Feel free to reach me out **samuelokakwu@gmail.com**
 
